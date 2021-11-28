@@ -1,0 +1,11 @@
+services:
+  netcoremvcmicroservice:
+    build:
+      context: /Users/alireid/Desktop/NetCoreMvcMicroservice
+      dockerfile: NetCoreMvcMicroservice/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: netcoremvcmicroservice
+    ports:
+    - target: 80
+version: '3.4'

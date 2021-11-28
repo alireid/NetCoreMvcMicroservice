@@ -1,0 +1,10 @@
+/Users/alireid/Desktop/NetCoreMvcMicroservice/bin/Debug/NetCoreMvcMicroservice.deps.json
+/Users/alireid/Desktop/NetCoreMvcMicroservice/bin/Debug/NetCoreMvcMicroservice.runtimeconfig.json
+/Users/alireid/Desktop/NetCoreMvcMicroservice/bin/Debug/NetCoreMvcMicroservice.runtimeconfig.dev.json
+/Users/alireid/Desktop/NetCoreMvcMicroservice/bin/Debug/appsettings.Development.json
+/Users/alireid/Desktop/NetCoreMvcMicroservice/bin/Debug/appsettings.json
+/Users/alireid/Desktop/NetCoreMvcMicroservice/bin/Debug/NetCoreMvcMicroservice.dll
+/Users/alireid/Desktop/NetCoreMvcMicroservice/bin/Debug/NetCoreMvcMicroservice.pdb
+/Users/alireid/Desktop/NetCoreMvcMicroservice/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/alireid/Desktop/NetCoreMvcMicroservice/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/alireid/Desktop/NetCoreMvcMicroservice/obj/Debug/docker-compose.dcproj.CopyComplete

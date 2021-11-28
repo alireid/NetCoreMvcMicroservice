@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  netcoremvcmicroservice:
+    image: ${DOCKER_REGISTRY-}netcoremvcmicroservice
+    build:
+      context: .
+      dockerfile: NetCoreMvcMicroservice/Dockerfile

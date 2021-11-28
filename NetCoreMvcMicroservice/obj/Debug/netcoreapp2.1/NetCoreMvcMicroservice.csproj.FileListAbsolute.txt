@@ -1,0 +1,17 @@
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/bin/Debug/netcoreapp2.1/NetCoreMvcMicroservice.deps.json
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/bin/Debug/netcoreapp2.1/NetCoreMvcMicroservice.runtimeconfig.json
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/bin/Debug/netcoreapp2.1/NetCoreMvcMicroservice.runtimeconfig.dev.json
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/bin/Debug/netcoreapp2.1/NetCoreMvcMicroservice.dll
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/bin/Debug/netcoreapp2.1/NetCoreMvcMicroservice.pdb
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/obj/Debug/netcoreapp2.1/NetCoreMvcMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/obj/Debug/netcoreapp2.1/NetCoreMvcMicroservice.AssemblyInfoInputs.cache
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/obj/Debug/netcoreapp2.1/NetCoreMvcMicroservice.AssemblyInfo.cs
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/obj/Debug/netcoreapp2.1/NetCoreMvcMicroservice.csproj.CoreCompileInputs.cache
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/obj/Debug/netcoreapp2.1/NetCoreMvcMicroservice.RazorAssemblyInfo.cache
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/obj/Debug/netcoreapp2.1/NetCoreMvcMicroservice.RazorAssemblyInfo.cs
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/obj/Debug/netcoreapp2.1/NetCoreMvcMicroservice.RazorTargetAssemblyInfo.cache
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/obj/Debug/netcoreapp2.1/NetCoreMvcMicroservice.dll
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/obj/Debug/netcoreapp2.1/NetCoreMvcMicroservice.pdb
+/Users/alireid/Desktop/NetCoreMvcMicroservice/NetCoreMvcMicroservice/obj/Debug/netcoreapp2.1/NetCoreMvcMicroservice.genruntimeconfig.cache
